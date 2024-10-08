@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osigaphor.github.io/sitemap.html.gz
+Sitemap: https://osigaphor.github.io/app/sitemap.html.gz
+Sitemap: https://osigaphor.github.io/assets/sitemap.html.gz
+Sitemap: https://osigaphor.github.io/css/sitemap.html.gz
+Sitemap: https://osigaphor.github.io/includes/sitemap.html.gz
+Sitemap: https://osigaphor.github.io/item/sitemap.html.gz
+Sitemap: https://osigaphor.github.io/src/sitemap.html.gz
